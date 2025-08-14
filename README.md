@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi 👋, I'm Dien Elsayed
 
-<!--
-**DienDoesData/DienDoesData** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 **Aspiring Data Analyst | Turning raw data into actionable insights**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 📊 Passionate about uncovering patterns, trends, and stories hidden in data  
+- 🧠 Skilled in **Machine Learning, Statistical Analysis, and Data Visualization**  
+- 📈 Track record of improving efficiency and driving growth through analytics  
+- 🌱 Currently learning **MS Azure**  
+- 🤝 Open to collaborating on **data analytics / data science projects**
+
+---
+
+## 🔭 Current Projects
+- 🗽 **NYC Vacation Rental Analysis** – Identified top neighborhoods, property types, and highest-earning rentals using exploratory data analysis & revenue modeling 
+
+---
+
+## 📂 Explore My Work
+- 📌 All my projects: [GitHub Portfolio](https://github.com/DienDoesData)  
+- 📄 My resume: [View Here](https://docs.google.com/document/d/1wkFr-QJ1khowd0gko10eIj8fbx3kixPUDr1hZkbH3Zo/edit?usp=sharing)  
+
+---
+
+## 📬 Let’s Connect
+- 💼 [LinkedIn](https://www.linkedin.com/in/dien-elsayed)  
+- 📧 Email: [dien.me@icloud.com](mailto:dien.me@icloud.com)  
+
+---
+
+## 🛠 Languages & Tools
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+---
+
+⚡ **Fun Fact:** I love to cook and play pickleball
