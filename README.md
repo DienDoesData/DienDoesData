@@ -15,7 +15,7 @@
 
 ## 🔭 Current Projects
 - 🗽 **NYC Vacation Rental Analysis** – Identified top neighborhoods, property types, and highest-earning rentals using exploratory data analysis & revenue modeling 
-
+## Ecommerce Retention and Cohort Analysis ## - This project highlights customer retention patterns and conversion funnel performance, providing data-driven insights to guide strategic decision-making for the e-commerce business. 
 ---
 
 ## 📂 Explore My Work
