@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 - 📊 Passionate about uncovering patterns, trends, and stories hidden in data  
-- 🧠 Skilled in **Machine Learning, Statistical Analysis, and Data Visualization**  
+- 🧠 Skilled in **Statistical Analysis and Data Visualization**  
 - 📈 Track record of improving efficiency and driving growth through analytics  
 - 🌱 Currently learning **MS Azure**  
 - 🤝 Open to collaborating on **data analytics / data science projects**
