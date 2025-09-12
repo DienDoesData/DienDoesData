@@ -18,6 +18,7 @@
 - 🗽 **NYC Vacation Rental Analysis** – Identified top neighborhoods, property types, and highest-earning rentals using exploratory data analysis & revenue modeling 
 - **Ecommerce Retention and Cohort Analysis** - This project highlights customer retention patterns and conversion funnel performance, providing data-driven insights to guide strategic decision-making for the e-commerce business.
 - **E-Commerce Business Performance Insight** - A review of superstore’s operations in an effort to increase profitability to avoid bankruptcy.
+- **Superstore Return-Rate Analysis** - The goal of this project was to analyze customer return patterns at the Superstore to identify the root causes of returned orders. The analysis aimed to quantify the financial and operational impact of returns and to provide data-driven insights that support process improvements.
 ---
 
 ## 📂 Explore My Work
