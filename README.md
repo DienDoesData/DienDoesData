@@ -1,6 +1,6 @@
 # Hi 👋, I'm Dien Elsayed
 
-💡 ** Junior Data Analyst | From raw data to actionable insights businesses and stakeholders use to make smart decisions**
+💡 ** Data Analyst | From raw data to actionable insights businesses and stakeholders use to make smart decisions**
 
 ---
 
