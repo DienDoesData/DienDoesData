@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1200 340" width="1200" height="340" role="img" aria-label="Dien Elsayed. IT Support, Security Operations, Solutions Engineering. I run the tech behind two small businesses in St. Pete and help others automate theirs. Security+, Network+, Splunk Core Certified User. Clearable. Tampa Bay, Florida.">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1200 340" width="1200" height="340" role="img" aria-label="Dien Elsayed. IT Support, Security Operations, Solutions Engineering. I run the tech behind two small businesses in St. Pete and help others automate theirs. Security+, Network+, Splunk Core Certified User, Azure Fundamentals. Clearable.">
 <defs>
 <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#121E2E"/><stop offset="1" stop-color="#1C3550"/></linearGradient>
 <pattern id="dots" width="26" height="26" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.4" fill="#96B9D7"/></pattern>
@@ -29,18 +29,18 @@
 <circle r="3.2" fill="#BFE3FF"><animateMotion dur="3.8s" begin="0.5s" repeatCount="indefinite"><mpath href="#l1"/></animateMotion></circle>
 <path id="l2" d="M980 205L1085 150" stroke="#78AACD" stroke-opacity=".45" stroke-width="1.5" fill="none"/>
 <circle r="3.2" fill="#BFE3FF"><animateMotion dur="4.4s" begin="1.0s" repeatCount="indefinite"><mpath href="#l2"/></animateMotion></circle>
-<path id="l3" d="M980 205L900 245" stroke="#78AACD" stroke-opacity=".45" stroke-width="1.5" fill="none"/>
+<path id="l3" d="M980 205L945 240" stroke="#78AACD" stroke-opacity=".45" stroke-width="1.5" fill="none"/>
 <circle r="3.2" fill="#BFE3FF"><animateMotion dur="5.0s" begin="1.5s" repeatCount="indefinite"><mpath href="#l3"/></animateMotion></circle>
 <path id="l4" d="M980 205L1100 285" stroke="#78AACD" stroke-opacity=".45" stroke-width="1.5" fill="none"/>
 <circle r="3.2" fill="#BFE3FF"><animateMotion dur="5.6s" begin="2.0s" repeatCount="indefinite"><mpath href="#l4"/></animateMotion></circle>
-<path id="l5" d="M900 245L760 150" stroke="#78AACD" stroke-opacity=".45" stroke-width="1.5" fill="none"/>
+<path id="l5" d="M945 240L760 150" stroke="#78AACD" stroke-opacity=".45" stroke-width="1.5" fill="none"/>
 <circle r="3.2" fill="#BFE3FF"><animateMotion dur="6.2s" begin="2.5s" repeatCount="indefinite"><mpath href="#l5"/></animateMotion></circle>
 <path id="l6" d="M905 95L760 150" stroke="#78AACD" stroke-opacity=".45" stroke-width="1.5" fill="none"/>
 <circle r="3.2" fill="#BFE3FF"><animateMotion dur="6.8s" begin="3.0s" repeatCount="indefinite"><mpath href="#l6"/></animateMotion></circle>
 <circle cx="905" cy="95" r="15" fill="#8CBEE1" opacity=".10" class="halo"/><circle cx="905" cy="95" r="8" fill="#182C42" stroke="#8CBEE1" stroke-width="2.2"/><text x="905" y="125" text-anchor="middle" class="lab">ACTIVE DIRECTORY</text>
 <circle cx="1085" cy="150" r="15" fill="#8CBEE1" opacity=".10" class="halo"/><circle cx="1085" cy="150" r="8" fill="#182C42" stroke="#8CBEE1" stroke-width="2.2"/><text x="1085" y="180" text-anchor="middle" class="lab">SPLUNK</text>
 <circle cx="980" cy="205" r="15" fill="#8CBEE1" opacity=".10" class="halo"/><circle cx="980" cy="205" r="8" fill="#182C42" stroke="#8CBEE1" stroke-width="2.2"/><text x="980" y="235" text-anchor="middle" class="lab">AZURE</text>
-<circle cx="900" cy="245" r="15" fill="#8CBEE1" opacity=".10" class="halo"/><circle cx="900" cy="245" r="8" fill="#182C42" stroke="#8CBEE1" stroke-width="2.2"/><text x="900" y="275" text-anchor="middle" class="lab">POWERSHELL</text>
+<circle cx="945" cy="240" r="15" fill="#8CBEE1" opacity=".10" class="halo"/><circle cx="945" cy="240" r="8" fill="#182C42" stroke="#8CBEE1" stroke-width="2.2"/><text x="945" y="270" text-anchor="middle" class="lab">POWERSHELL</text>
 <circle cx="1100" cy="285" r="15" fill="#8CBEE1" opacity=".10" class="halo"/><circle cx="1100" cy="285" r="8" fill="#182C42" stroke="#8CBEE1" stroke-width="2.2"/><text x="1100" y="315" text-anchor="middle" class="lab">PAYMENTS</text>
 <circle cx="760" cy="150" r="15" fill="#8CBEE1" opacity=".10" class="halo"/><circle cx="760" cy="150" r="8" fill="#182C42" stroke="#8CBEE1" stroke-width="2.2"/><text x="760" y="180" text-anchor="middle" class="lab">SMS</text>
 </g>
@@ -53,7 +53,7 @@
 <g class="a4"><g transform="translate(64 262)"><rect width="112" height="34" rx="17" fill="#8CBEE1" fill-opacity=".10" stroke="#8CBEE1" stroke-opacity=".55"/><text x="56.0" y="22" text-anchor="middle" class="chip">Security+</text></g>
 <g transform="translate(188 262)"><rect width="106" height="34" rx="17" fill="#8CBEE1" fill-opacity=".10" stroke="#8CBEE1" stroke-opacity=".55"/><text x="53.0" y="22" text-anchor="middle" class="chip">Network+</text></g>
 <g transform="translate(306 262)"><rect width="246" height="34" rx="17" fill="#8CBEE1" fill-opacity=".10" stroke="#8CBEE1" stroke-opacity=".55"/><text x="123.0" y="22" text-anchor="middle" class="chip">Splunk Core Certified User</text></g>
-<g transform="translate(564 262)"><rect width="104" height="34" rx="17" fill="#8CBEE1" fill-opacity=".10" stroke="#8CBEE1" stroke-opacity=".55"/><text x="52.0" y="22" text-anchor="middle" class="chip">Clearable</text></g>
-<g transform="translate(680 262)"><rect width="138" height="34" rx="17" fill="#8CBEE1" fill-opacity=".10" stroke="#8CBEE1" stroke-opacity=".55"/><text x="69.0" y="22" text-anchor="middle" class="chip">Tampa Bay, FL</text></g>
+<g transform="translate(564 262)"><rect width="176" height="34" rx="17" fill="#8CBEE1" fill-opacity=".10" stroke="#8CBEE1" stroke-opacity=".55"/><text x="88.0" y="22" text-anchor="middle" class="chip">Azure Fundamentals</text></g>
+<g transform="translate(752 262)"><rect width="104" height="34" rx="17" fill="#8CBEE1" fill-opacity=".10" stroke="#8CBEE1" stroke-opacity=".55"/><text x="52.0" y="22" text-anchor="middle" class="chip">Clearable</text></g>
 </g>
 </svg>
