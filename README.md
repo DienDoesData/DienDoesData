@@ -30,12 +30,24 @@ Private repositories hold customer and payment configuration, so the code stays 
 
 ## 🎓 Certifications
 
+<p align="center">
+  <a href="https://www.credly.com/users/nour-eldien-elsayed"><img src="https://images.credly.com/images/80d8a06a-c384-42bf-ad36-db81bce5adce/blob" height="120" alt="CompTIA Security+ ce Certification badge"></a>
+  &nbsp;&nbsp;
+  <a href="https://www.credly.com/users/nour-eldien-elsayed"><img src="https://images.credly.com/images/c70ba73e-3c8a-46fa-9d60-4a9af94ad662/blob" height="120" alt="CompTIA Network+ ce Certification badge"></a>
+  &nbsp;&nbsp;
+  <a href="https://www.credly.com/users/nour-eldien-elsayed"><img src="https://images.credly.com/images/93ffdd67-fa3a-4690-9289-094e2e3d63bd/20-14376-SPLK-Certification-Badge-Youracclaim.com-101_Splunk-Core-Certified-User.png" height="120" alt="Splunk Core Certified User badge"></a>
+  &nbsp;&nbsp;
+  <a href="https://www.credly.com/users/nour-eldien-elsayed"><img src="https://images.credly.com/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" height="120" alt="Microsoft Certified: Azure Fundamentals badge"></a>
+</p>
+
 | Certification | Issuer | Status |
 | :--- | :--- | :--- |
-| Security+ | CompTIA | Active through May 2028 |
-| Network+ | CompTIA | Active through April 2027 |
-| Splunk Core Certified User | Splunk | Active through March 2027 |
-| Azure Fundamentals | Microsoft | Earned January 2024 · expired April 2026 |
+| Security+ ce | CompTIA | Active through April 11, 2027 |
+| Network+ ce | CompTIA | Active through April 11, 2027 |
+| Splunk Core Certified User | Splunk | Active through May 6, 2027 |
+| Azure Fundamentals | Microsoft | Issued February 7, 2024 |
+
+Badges are issued through Credly and can be verified on [my Credly profile](https://www.credly.com/users/nour-eldien-elsayed).
 
 ## 📊 Data projects
 
