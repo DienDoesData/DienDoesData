@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header.svg" width="100%" alt="Dien Elsayed. IT Support, Security Operations, Solutions Engineering. I run the tech behind two small businesses and help others automate theirs. Security+, Network+, Splunk Core Certified User. Clearable. Tampa Bay, Florida.">
+  <img src="./assets/header.svg" width="100%" alt="Dien Elsayed. IT Support, Security Operations, Solutions Engineering. I run the tech behind two small businesses and help others automate theirs. Security+, Network+, Splunk Core Certified User, Azure Fundamentals. Clearable.">
 </p>
 
 ### Hi, I'm Dien 👋
