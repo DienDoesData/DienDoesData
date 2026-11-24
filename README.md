@@ -1,42 +1,47 @@
-# Hi 👋, I'm Dien Elsayed
+<p align="center">
+  <img src="./assets/header.svg" width="100%" alt="Dien Elsayed. IT Support, Security Operations, Solutions Engineering. I run the tech behind two small businesses and help others automate theirs. Security+, Network+, Splunk Core Certified User. Clearable. Tampa Bay, Florida.">
+</p>
 
-💡 ** Data Analyst | From raw data to actionable insights businesses and stakeholders use to make smart decisions**
+### Hi, I'm Dien 👋
 
----
+I run the tech behind two small businesses in St. Pete, and I build automation for other local businesses: online ordering, payments, billing and the customer messaging around them. So far that is a run coach and market vendors, with a salon next. I also build labs to show I can do the same work inside a corporate network.
 
-## 🚀 About Me
-- 📊 Passionate about uncovering patterns, trends, and stories hidden in data  
-- 🧠 Skilled in **Statistical Analysis and Data Visualization**  
-- 📈 Track record of improving efficiency and driving growth through analytics  
-- 🌱 Currently learning **MS Azure**  
-- 🤝 Open to collaborating on **data analytics / data science projects**
+Owning real systems taught me the part no certification covers. When it breaks on a Saturday morning, it is yours to fix.
 
----
+**Looking for:** a role in IT support, security operations or solutions engineering in the Tampa Bay area. U.S. citizen, able to obtain a security clearance.
 
-## 🔭 Current Projects
+## 🛰️ Featured work
 
-- 🗽 **NYC Vacation Rental Analysis** – Identified top neighborhoods, property types, and highest-earning rentals using exploratory data analysis & revenue modeling 
-- **Ecommerce Retention and Cohort Analysis** - This project highlights customer retention patterns and conversion funnel performance, providing data-driven insights to guide strategic decision-making for the e-commerce business.
-- **E-Commerce Business Performance Insight** - A review of superstore’s operations in an effort to increase profitability to avoid bankruptcy.
-- **Superstore Return-Rate Analysis** - The goal of this project was to analyze customer return patterns at the Superstore to identify the root causes of returned orders. The analysis aimed to quantify the financial and operational impact of returns and to provide data-driven insights that support process improvements.
----
+| | Project | What I built | Stack |
+| :---: | :--- | :--- | :--- |
+| 🟢 | [**Active Directory Home Lab**](https://github.com/DienDoesData/active-directory-home-lab)<br><sub>Public</sub> | A Windows Server domain for a fictional 31-person company. Users provisioned by script, ten help desk tickets worked with before-and-after evidence, lockout and password policy, and a Splunk dashboard of failed logins. | Windows Server 2025 · Active Directory · Group Policy · PowerShell · Splunk · Azure |
+| 🔒 | [**Mona's Fresh Market**](https://monasmarket.shop)<br><sub>Live · code private</sub> | Order-ahead storefront for a family farmers market stand. Customers order and pay online, the stand gets a prep list, and confirmations go out by text. I built and run the site, the payments, the messaging and the uptime. | JavaScript · serverless functions · Stripe · Twilio · Google Apps Script · Netlify |
+| 🔒 | **Vendor storefront engine**<br><sub>Live · code private</sub> | The same ordering system packaged so another business can run on it with its own accounts, branding and payments. Now runs more than one shop, including [coconutking.shop](https://coconutking.shop). | Shared engine · per-vendor configuration · Stripe · Netlify |
+| 🔧 | **RunWithKat client billing**<br><sub>In build · code private</sub> | Automation for a run-coaching business: client sign-up and agreements, automatic monthly billing, failed-payment alerts, a paid and unpaid dashboard, and coach payouts. Built so the client owns every account outright. | Stripe · Supabase (Postgres) · Twilio · Netlify |
+| 🔒 | [**Curbside Brothers Junk Removal**](https://curbsidebros.com)<br><sub>Live · code private</sub> | Company site with more than 50 city pages built by a Python generator, plus the search listings, quote form and tracking behind it. | Python · static site generation · Netlify · Search Console |
 
-## 📂 Explore My Work
-- 📌 All my projects: [GitHub Portfolio](https://github.com/DienDoesData)  
-- 📄 My resume: [View Here](https://docs.google.com/document/d/1wkFr-QJ1khowd0gko10eIj8fbx3kixPUDr1hZkbH3Zo/edit?usp=sharing)  
+Private repositories hold customer and payment configuration, so the code stays closed. I am glad to walk through any of them on a call.
 
----
+## 🧰 Toolbox
 
-## 📬 Let’s Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/dien-elsayed)  
-- 📧 Email: [dien.me@icloud.com](mailto:dien.me@icloud.com)  
+<p>
+  <img src="./assets/toolbox.svg" width="100%" alt="Identity: Active Directory, Group Policy, NTFS permissions, Windows Server 2025. Security: Splunk, Windows Security logs, lockout and password policy. Automation: PowerShell, Python, Google Apps Script, SQL. Cloud and web: Azure, Netlify, Stripe, Twilio, Supabase.">
+</p>
 
----
+## 🎓 Certifications
 
-## 🛠 Languages & Tools
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
----
+| Certification | Issuer | Valid through |
+| :--- | :--- | :--- |
+| Security+ | CompTIA | May 2028 |
+| Network+ | CompTIA | April 2027 |
+| Splunk Core Certified User | Splunk | March 2027 |
 
-⚡ **Fun Fact:** I love to cook and play pickleball
+## 📊 Data projects
+
+I also have SQL and Python analysis projects on vacation rentals, e-commerce retention and retail returns. They are under [Repositories](https://github.com/DienDoesData?tab=repositories).
+
+## 📡 Get in touch
+
+Hiring for IT support or security operations, or need ordering, billing or operations automated for your business? I'd like to talk.
+
+[**LinkedIn**](https://www.linkedin.com/in/dien-elsayed/) &nbsp;·&nbsp; [**dien.me@icloud.com**](mailto:dien.me@icloud.com)
