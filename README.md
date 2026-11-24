@@ -30,11 +30,12 @@ Private repositories hold customer and payment configuration, so the code stays 
 
 ## 🎓 Certifications
 
-| Certification | Issuer | Valid through |
+| Certification | Issuer | Status |
 | :--- | :--- | :--- |
-| Security+ | CompTIA | May 2028 |
-| Network+ | CompTIA | April 2027 |
-| Splunk Core Certified User | Splunk | March 2027 |
+| Security+ | CompTIA | Active through May 2028 |
+| Network+ | CompTIA | Active through April 2027 |
+| Splunk Core Certified User | Splunk | Active through March 2027 |
+| Azure Fundamentals | Microsoft | Earned January 2024 · expired April 2026 |
 
 ## 📊 Data projects
 
